@@ -1,5 +1,5 @@
 body{
-   background-image:url('./componants/8c0568e36c5302347373dd4bb34e5a0b.jpg');
+   background-image:url('./componants/Capture.PNG');
   color: #fff;
   background-repeat: no-repeat;
   background-size: cover;
@@ -56,7 +56,7 @@ body{
   display: inline-block;
   margin: 0px 10px 0 10px;
   cursor: pointer;
-  color: rgba(231, 126, 144, 0.753);
+  color: rgba(6, 233, 241, 0.753);
 }
 .taskBg .iconsWrap span:hover{
  color: #fff;

@@ -5,7 +5,7 @@ import UpdateTaskForm from './componants/UpdateForm';
 import TodoTaskForm from './componants/ToDo';
 import store from './componants/j.json';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
+import './App1.css';
 console.log(store);
 
 function App() {
